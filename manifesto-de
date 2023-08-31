@@ -1,0 +1,29 @@
+<h1>Das OpenTF Manifest<h1>
+
+<p>Terraform war in 2014 mit der Mozilla Public License (v2.0)( die “MPL) als Open-Source-Lösung bereitgestellt. In den nächsten 9 Jahren baute es eine Community, 
+die Tausende Benutzern, Mitwirkenden, Kunden, zertifizieren Praktikern, Anbieten und ein Ökosystem aus Open-Source-Modulen, -Plugins, und -Erweiterung umfasste. 
+Am 10. August 2023 hat HashiCorp plötzlich und ohne Vorankündigung und ein Chance für Community-Feedback 
+die Lizenz des TerraForms von der MPL zu der Business Source License (v1.1)(die BUSL) ausgetauscht, die eine Nicht-Open-Source-Lizenz ist. Unsere Meinung nacht diese Wechsel geht, 
+dass sie die ganze Community und das ganzen Ökosystem bedroht, die wir die letzen 9 Jahren bauen aus.</p>
+
+<h2>Unsere Sorge: Die BUSL ist das Gift von TerraForm<h2>
+
+<p>Zehntausende Webentwickler*in, kleine Firma und Fortune 500s wachten mit der Realität auf, dass die 
+Grundlage ihrer Infrastruktur plötzlich vielleicht Illegal geworden waren. Die BUSL und der Zuschuss zur zusätzlichen Nutzung, 
+die von HashiCorp geschrieben wurden, sind unbestimmt. Jetzt muss jeden Firm, Kunden, und Webentwickler*in sich bewundern, ob ihre Projekte mit 
+den Angeboten von HashiCorp konkurrieren. Die häufig gestellten Fragen (FAQs) sind für Endkunden und Systemintegratoren heute ein gewisser Trost, 
+aber selbst wenn Sie jetzt im Klaren sind, wie können Sie Vertrauen aufbauen, dass Ihre Nutzung in Zukunft nicht gegen die Lizenzbedingungen verstößt? 
+Was passiert, wenn sich Ihre Produkte oder die Produkte von HashiCorp ändern? Was passiert, wenn HashiCorp seine Interpretation von „wettbewerbsfähig“ ändert? 
+Was passiert, wenn sie die Lizenz erneut ändern? Infolgedessen steht alles, was Terraform nutzt, auf wackeligen Beinen.</p>
+
+<p>Es ist klar, dass mit der neuen Lizenz das blühende Ökosystem rund um, das Open-Source-TerraForm schwinden und verkümmern wird. Wann Entwickler darüber nachdenken, welche Tools
+sie erlernen und zu welchen Ökosystemen sie beitragen möchten, und wann Firmen darüber nachdenken, welche Tools sie zur Verwaltung ihrer Infrastruktur verwenden sollen, 
+entscheiden sie sich zunehmend für Alternativen, die wirklich Open-Source sind. Bestehende TerraForm-Codebasen werden zu veralteten Verbindlichkeiten, 
+unabhängige Tools werden so gut wie verschwinden und die Community wird zerbrechen und verschwinden.</p>
+
+<p>Diese Änderung schadet allen ähnlichen Open-Source-Projekten auch. Jeder Firm und jeder Entwickler muss überlegen,
+bevor sie ein Open-Source-Projekt übernimmt und in dieses investiert, für den Fall, dass der Ersteller plötzlich beschließt, die Lizenz zu ändern. 
+Stellen Sie sich vor, die Entwickler von Linux oder Kubernetes würden plötzlich auf eine Nicht-Open-Source-Lizenz umsteigen, die nur eine nicht wettbewerbsorientierte Nutzung erlaubt.</p>
+
+<p>Wir glauben, dass die wichtigsten Bausteine des modernen Internets (wie Linux, Kubernetes, und Terraform) wirklich Open-Source sein müssen: 
+nur so können wir sicherstellen, dass wir unsere Branche auf einer stabilen und voraussehbaren Stiftung.</p>
